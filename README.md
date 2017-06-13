@@ -1,6 +1,21 @@
 # journey
 My front-end journey
 
+
+## Goals
+- HTML
+- CSS
+- Git
+- Javascript
+- JQuery
+- SASS
+- Angularjs
+- Reactjs
+- SEO
+- Performance
+- Acessibilidade
+
+
 ## Free Code Camp
 
 ### Profile
@@ -9,6 +24,7 @@ https://www.freecodecamp.com/viniciusrosa2
 ### Basic Front End Development Certification
 - https://codepen.io/viniciusrosa2/pen/MmMzxQ
 - https://codepen.io/viniciusrosa2/pen/pPMJbm
+
 
 ## References
 - https://woliveiras.com.br/posts/guia-de-estudos-desenvolvedor-front-end-iniciante/
