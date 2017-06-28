@@ -15,6 +15,9 @@ My front-end journey
 - Performance
 - Acessibilidade
 
+## Challenges for the modular-ui workshop
+- Implement a dribbble design
+- Refactor the code
 
 ## Free Code Camp
 
