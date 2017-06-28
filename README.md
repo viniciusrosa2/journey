@@ -3,17 +3,17 @@ My front-end journey
 
 
 ## Goals
-- HTML
-- CSS
-- Git
-- Javascript
-- JQuery
-- SASS
-- Angularjs
-- Reactjs
-- SEO
-- Performance
-- Acessibilidade
+- [x] HTML
+- [x] CSS
+- [ ] Git
+- [ ] Javascript
+- [ ] JQuery
+- [ ] SASS
+- [ ] Angularjs
+- [ ] Reactjs
+- [ ] SEO
+- [ ] Performance
+- [ ] Acessibilidade
 
 ## Challenges for the modular-ui workshop
 - Implement a dribbble design
