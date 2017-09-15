@@ -5,19 +5,24 @@ My front-end journey
 ## Goals
 - [x] HTML
 - [x] CSS
+- [ ] Terminal
+- [x] SASS
+- [x] Bootstrap
 - [x] Git
 - [ ] Javascript
+- [ ] Typescript
 - [ ] JQuery
-- [x] SASS
+- [ ] BEM
+- [ ] SMACSS
+- [ ] npm scripts
+- [ ] webpack
+- [ ] Yarn 
+- [ ] Gulp
 - [ ] Angularjs
 - [ ] Reactjs
 - [ ] SEO
-- [ ] Performance
-- [x] Acessibilidade
+- [ ] Jest
 
-## Challenges for the modular-ui workshop
-- Implement a dribbble design
-- Refactor the code
 
 ## Free Code Camp
 
@@ -35,3 +40,4 @@ https://www.freecodecamp.com/viniciusrosa2
 - https://leandrooriente.com/como-me-tornar-um-desenvolvedor-front-end/
 - https://tableless.com.br/tornar-dev-front-end/
 - https://tableless.com.br/iniciando-no-git-parte-1/
+- https://github.com/kamranahmedse/developer-roadmap
